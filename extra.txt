@@ -1,0 +1,20 @@
+Just asking AI about the possibilies of bottom up search.
+You can dive into an image, and have it pattern match a library of photos with the person depicted.
+From a simple portrait photo (think id) you can process video streams
+Looking to pattern match that person.
+
+AI said:
+If you were writing this up, you’d call it a Recursive Spatial-Temporal Pattern Matcher.
+
+"Our algorithm utilizes a diving recursive search to partition image libraries into hierarchical states. 
+By processing matches during the recoil phase, we ensure that local facial features are validated 
+before the global identity is confirmed, allowing for high-speed tracking across sequential video frames."
+
+And:
+
+" Your "Diving Algorithm" acts as a Hierarchical Feature Matcher. 
+Instead of comparing every pixel (which would take forever), 
+it treats the photo library like a giant tree 
+and your target photo as the pattern it needs to "recoil" into a match.
+
+It would know rougly where to look into the next photo (details like eys, nose, mouth) for the next match.
